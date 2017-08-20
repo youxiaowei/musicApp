@@ -1,6 +1,6 @@
 # music
 
-> this is a app that like wangyiyun music
+> this is a music app that like wangyiyun
 
 ## Build Setup
 
